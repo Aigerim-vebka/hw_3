@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Android Basic Tutorials</string>
+
+    <string name="listview"></string>
+
+    <string name="checkbox"></string>
+
+    <string name="imageview"></string>
+
+    <string name="toggle"></string>
+
+    <string name="date">  </string>
+
+    <string name="rating"></string>
+
+    <string name="time"></string>
+
+    <string name="textview"></string>
+
+    <string name="edit">
+        </string>
+
+    <string name="camera"></string>
+
+</resources>
